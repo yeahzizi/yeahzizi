@@ -1,6 +1,5 @@
-### Hi there 👋
+### yeahzizi
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahzizi&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbdpwl1205)](https://solved.ac/fbdpwl1205/)
 
 <!--
