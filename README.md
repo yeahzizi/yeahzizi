@@ -1,5 +1,8 @@
 ### yeahzizi
 
+2022.07 ~ 2023.06 SSAFY
+2023.12 ~ KBDS Internship
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbdpwl1205)](https://solved.ac/fbdpwl1205/)
 
 <!--
