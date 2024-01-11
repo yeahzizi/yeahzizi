@@ -1,8 +1,8 @@
 
 
-2022.07 ~ 2023.06 SSAFY 
+2022.07 ~ 2023.06 SSAFY 8기
 
-2024.01 ~ NH bank
+2024.01 ~ NH nonghyup Bank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbdpwl1205)](https://solved.ac/fbdpwl1205/)
 
